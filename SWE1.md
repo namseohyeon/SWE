@@ -131,4 +131,4 @@
 
 ### 워터폴vs 애자일
 1. 워터폴
-![워터폴](https://freemoa-blog.com/930)
+![워터폴](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F60266242-763c-42e4-b4d2-15517e4bfa4b%2FUntitled.png&blockId=98b2307c-767c-4d98-8019-1a91fd3905e2)
