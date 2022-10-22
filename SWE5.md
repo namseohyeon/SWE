@@ -22,13 +22,13 @@
 - 
 #### 5-1-1 관점과 추상화 수준
 모델은 특정관점과 추상화 수준에 따라 달라짐
-![image](https://user-images.githubusercontent.com/64974683/197330590-66cb83ac-3054-4dbd-928c-69127f3b519e.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/64974683/197330590-66cb83ac-3054-4dbd-928c-69127f3b519e.png)
 
 #### 5-1-2 소프트웨어와 모델링
 소프트웨어도 모델을 작성하기 위한 표준 및 규칙존재
 대부분의 소프트웨어 모델은 그래픽 기호 + 주석으로 구성된 시각적 다이어그램
 개발 중에 사용되는 시각적 모델은 추상, 세부 수준, 관점에 따라 다름
-![image](https://user-images.githubusercontent.com/64974683/197330721-9aeb785a-e68d-4b9f-8ce2-cfa9f60cd490.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/64974683/197330721-9aeb785a-e68d-4b9f-8ce2-cfa9f60cd490.png)
 
 모델을 만드는 목적 > 관점, 형식 결정
 
@@ -36,7 +36,7 @@
 모델링 작업의 결과물은 다른 모델링 작업에 영향 줄 수 있음
 예) 유스케이스 명세로부터 필요한 요소들을 가져와 도메인 모델로 정리할 수 있음
 모델링- 대상을 파악해가면서 특정 관점에 해당하는 요소를 찾아내어 시각적으로 표현한것
-![image](https://user-images.githubusercontent.com/64974683/197330823-29f26419-2977-4d96-82a8-2922c82a2bf2.png){: width="10" height="10"}
+![image](https://user-images.githubusercontent.com/64974683/197330823-29f26419-2977-4d96-82a8-2922c82a2bf2.png)
 
 ### UML 이란
 객체지향 소프트웨어를 모델링하는 표준 그래픽 언어(소프트웨어 모델링의 공통언어)
